@@ -117,7 +117,7 @@ body {
     position: relative;
     float: left;
     left: 330px;
-    top: 19px;
+    top: 8px;
 }
 
 /* --- 1 --- */
@@ -125,6 +125,7 @@ body {
 .layer010 {
     position: absolute;
     left: 0px;
+    top: 0px;
     width: auto;
 }
 
