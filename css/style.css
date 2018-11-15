@@ -1,0 +1,331 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+    border: 0px solid red;
+    width: 2000px;
+}
+
+.block-0 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 2000px;
+    height: 72px;
+    background: #194277;
+    z-index: 0;
+    border: 0px solid black
+}
+
+.block-1 {
+    height: 872px;
+    width: auto;
+    background: url(../img/welcome_fon_01.png) no-repeat center top / cover;
+    border: 0px solid black;
+}
+
+.block-2 {
+    height: 405px;
+    width: auto;
+    border: 0px solid black;
+}
+
+.block-3 {
+    height: 1150px;
+    width: auto;
+    background: url(../img/ei_fon.png) no-repeat center top / cover;
+    border: 0px solid black;
+}
+
+.block-4 {
+    height: 1020px;
+    width: auto;
+    border: 0px solid black;
+}
+
+.block-5 {
+    height: 363px;
+    width: auto;
+    background: url(../img/clients_fon.png) no-repeat center top / cover;
+    border: 0px solid black;
+}
+
+.block-6 {
+    height: 247px;
+    width: auto;
+    background: url(../img/footer_fon_01.png) no-repeat center top / cover;
+    border: 0px solid black;
+}
+
+.container0 {
+    width: 1170px;
+    height: 72px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+.container1 {
+    width: 1170px;
+    height: 872px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+.container2 {
+    width: 1170px;
+    height: 405px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+.container3 {
+    width: 1170px;
+    height: 1150px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+.container4 {
+    width: 1170px;
+    height: 1020px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+.container5 {
+    width: 1170px;
+    height: 363px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+.container6 {
+    width: 1170px;
+    height: 247px;
+    border: 0px solid pink;
+    margin: 0 auto;
+}
+
+/* --- 0 --- */
+
+.layer001 {
+    position: relative;
+    float: left;
+    left: 330px;
+    top: 19px;
+}
+
+/* --- 1 --- */
+
+.layer010 {
+    position: absolute;
+    left: 0px;
+    width: auto;
+}
+
+.layer011 {
+    position: relative;
+    float: right;
+    right: 15px;
+    top: 100px;
+    display: inline-block;
+}
+
+.layer012 {
+    position: relative;
+    float: left;
+    left: 490px;
+    top: 170px;
+}
+
+.layer013 {
+    position: relative;
+    float: left;
+    left: -5px;
+    top: 402px;
+}
+
+.layer014 {
+    position: absolute;
+    top: 150px;
+    left: 450px;
+
+}
+
+/* --- 2 --- */
+
+.layer021 {
+    position: relative;
+    float: left;
+    top: 90px;
+    left: 510px;
+}
+
+.layer022 {
+    position: relative;
+    float: left;
+    top: 160px;
+    left: 50px;
+}
+
+/* --- 3 --- */
+
+.layer030 {
+    position: relative;
+    float: left;
+    top: 90px;
+    left: 492.5px;
+}
+
+.layer037 {
+    position: relative;
+    float: left;
+    width: 1070px;
+    height: 735px;
+    top: 200px;
+    left: 50px;
+}
+
+.layer032, .layer035 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.layer034, .layer035, .layer036 {
+    margin-top: 50px;
+}
+
+.layer031, .layer032, .layer033, .layer034, .layer035, .layer036 {
+    float: left;
+}
+
+/* --- 4 --- */
+
+.layer040 {
+    position: relative;
+    float: left;
+    top: 90px;
+    left: 450px;
+}
+
+.layer047 {
+    position: relative;
+    float: left;
+    width: 1170px;
+    height: 600px;
+    top: 190px;
+    left: 15px;
+}
+
+.layer042, .layer045 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.layer044, .layer045, .layer046 {
+    margin-top: 50px;
+}
+
+
+.layer041, .layer042, .layer043, .layer044, .layer045, .layer046 {
+    float: left;
+}
+
+/* --- 5 --- */
+
+.layer051 {
+    position: relative;
+    float: left;
+    top: 90px;
+    left: 510px;
+}
+
+.layer052 {
+    position: relative;
+    float: left;
+    top: 165px;
+    left: 60px;
+}
+
+/* --- 6 --- */
+
+.layer061 {
+    position: absolute;
+    left: 20px;
+    z-index: 0;
+}
+
+.layer062 {
+    position: relative;
+    float: left;
+    top: 100px;
+    left: 10px;
+}
+
+.layer063 {
+    position: relative;
+    float: right;
+    top: 90px;
+    right: 10px;
+}
+
+/* --- Menu --- */
+
+.poster{
+    position: absolute;
+    margin: 0p auto;
+    top: -42px;
+    left: 1092px;
+    height: 27px;
+    width: 30px;
+    border: 0px solid red;
+}
+
+.descr {
+    display:none;
+    padding: 10px;
+    background: #f3f3f3;
+    height: 105px;
+    -moz-box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+    box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+}
+
+.poster:hover .descr {
+    display: block;
+    position: absolute;
+    top: px;
+    left: -190px;
+    z-index: 9999;
+    width: 200px;
+    border: 0px solid red;
+}
+
+.top-menu li{
+    list-style: none;
+    display: inline-block;
+    background: #f3f3f3;
+    position: relative;
+}
+
+.top-menu li:hover{
+    width: 200px;
+    background: #ccc;
+}
+
+.top-menu li a{
+    width: 190px;
+    color: #222;
+    padding: 5px 7px;
+    text-decoration: none;
+    display: block;
+}
+
+p {
+    margin-bottom: 5px;
+}
